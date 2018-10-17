@@ -1,7 +1,7 @@
 body{
   background: url('gambar/d.png') no-repeat scroll;
   background-size: 100% 100%;
-  min-height: 500px;
+  height: 500px;
 }
 *{
   margin: 0;
@@ -23,10 +23,6 @@ h1{
   font-size: 30px;
   color: white;
 }
-h3{
-  font-family: bebas;
-  font-size: 30px;
-}
 .id{
   width: 300px;
 }
@@ -39,7 +35,14 @@ h3{
 .pass{
   height: 25px;
 }
-.h3{
-  font-family: bebas;
-  font-size: 20px;
-}
+.tombol3{
+  background:#888a8c;
+  color:white;
+  border-top:0;
+  border-left:0;
+  border-right:0;
+  border-bottom:3px solid #7c7e7f;
+  padding:10px 40px;
+  text-decoration:none;
+  font-family:sans-serif;
+  font-size:11pt
