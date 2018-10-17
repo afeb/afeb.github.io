@@ -1,0 +1,61 @@
+body{
+  background: url('gambar/d.png') no-repeat scroll;
+  background-size: 100% 100%;
+  min-height: 500px;
+}
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.header{
+  background-color: #ffffff;
+  width: 1365px;
+  height: 90px;
+  border: 0px solid;
+}
+table{
+  float: right;
+  margin: 40px
+}
+h1{
+  font-family:bebas;
+  font-size: 70px;
+}
+h2{
+  color: #ffffff;
+  font-family:bebas;
+  font-size: 70px;
+}
+h3{
+  font-family: bebas;
+  font-size: 70px;
+}
+.tombol1{
+  background:#888a8c;
+  color:white;
+  border-top:0;
+  border-left:0;
+  border-right:0;
+  border-bottom:3px solid #7c7e7f;
+  padding:10px 40px;
+  text-decoration:none;
+  font-family:sans-serif;
+  font-size:11pt
+}
+h4{
+  font-family: arial;
+  font-size: 20px;
+}
+.tombol2{
+  background:#888a8c;
+  color:white;
+  border-top:0;
+  border-left:0;
+  border-right:0;
+  border-bottom:3px solid #7c7e7f;
+  padding:10px 40px;
+  text-decoration:none;
+  font-family:sans-serif;
+  font-size:11pt
+}

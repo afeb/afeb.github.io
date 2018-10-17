@@ -1,0 +1,45 @@
+body{
+  background: url('gambar/d.png') no-repeat scroll;
+  background-size: 100% 100%;
+  min-height: 500px;
+}
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.header{
+  background-color: #ffffff;
+  width: 1365px;
+  height: 90px;
+  border: 0px solid;
+}
+table{
+  float: right;
+  margin: 40px
+}
+h1{
+  font-family: bebas;
+  font-size: 30px;
+  color: white;
+}
+h3{
+  font-family: bebas;
+  font-size: 30px;
+}
+.id{
+  width: 300px;
+}
+.pass{
+  width: 300px;
+}
+.id{
+  height: 25px;
+}
+.pass{
+  height: 25px;
+}
+.h3{
+  font-family: bebas;
+  font-size: 20px;
+}
